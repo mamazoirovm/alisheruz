@@ -5,7 +5,7 @@ let dollarKurs = 750 * 11000.34;
 let yevroKurs = 120 * 12354.03;
 let results = dollarKurs + yevroKurs;
 
-if (alisher == results) {
+if (alisher >= results) {
   document.write("Alisher aka oq yol, yaxshi boring");
 } else {
   document.write("Alisher aka ozgina sabr qiling, puliz yetmadi?");
